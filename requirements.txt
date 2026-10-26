@@ -1,0 +1,2 @@
+# Nothing to install. Cylinder Atlas uses only the Python standard library (3.9+).
+# The map loads Leaflet from a CDN in the browser, so the browser needs internet.
