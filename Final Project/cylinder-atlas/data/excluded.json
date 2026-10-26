@@ -1,0 +1,1017 @@
+{
+ "_about": "Companies excluded from the target universe because a Tier-1 major, a roll-up or another acquirer already owns them. Each row gives the owner, reason and source.",
+ "excluded": [
+  {
+   "name": "Greens Welding Supply",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2026)",
+   "source": "https://www.mdm.com/news/top-distributor-sectors/gases-welding-equipment/meritus-gas-partners-acquires-greens-welding-supply-in-dfw-boost/"
+  },
+  {
+   "name": "Metroplex Welding Supply",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2026)",
+   "source": "https://www.mdm.com/news/top-distributor-sectors/gases-welding-equipment/meritus-gas-partners-adds-5-dfw-locations-with-acquisition-of-metroplex-welding-supply/"
+  },
+  {
+   "name": "Wagner Welding Supply (Longmont, CO)",
+   "owner": "Meritus Gas Partners (Buckeye)",
+   "reason": "Acquired by Meritus Gas Partners (Buckeye) (2026)",
+   "source": "https://pulse2.com/meritus-gas-partners-acquires-wagner-welding-supply-to-expand-colorado-presence/"
+  },
+  {
+   "name": "HICO Distributing (Englewood, CO)",
+   "owner": "Meritus Gas Partners (Buckeye)",
+   "reason": "Acquired by Meritus Gas Partners (Buckeye) (2026)",
+   "source": "https://www.mdm.com/news/top-distributor-sectors/gases-welding-equipment/meritus-gas-partners-expands-denver-presence-with-hico-deal/"
+  },
+  {
+   "name": "Hohenschild Welders Supply",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners",
+   "source": "https://www.mdm.com/news/operations/mergers-acquisitions/meritus-gas-partners-acquires-welding-distributor-in-kansas-city/"
+  },
+  {
+   "name": "Oxygen Service Company",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners",
+   "source": "https://www.mdm.com/news/top-distributor-sectors/gases-welding-equipment/meritus-gas-partners-acquires-oxygen-service-company-in-mn/"
+  },
+  {
+   "name": "Cameron Welding Supply",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2025)",
+   "source": "https://www.mdm.com/?p=358877"
+  },
+  {
+   "name": "Buckeye Welding Supply (Greeley, CO)",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2025)",
+   "source": "https://www.mdm.com/?p=358877"
+  },
+  {
+   "name": "GM Welding Supply (San Angelo, TX)",
+   "owner": "B&J Welding Supply / American Gas Group (Cordatus Capital)",
+   "reason": "Acquired by B&J Welding Supply / American Gas Group (Cordatus Capital) (2025)",
+   "source": "https://gawdamedia.com/bj-welding-supply-acquires-gm-welding-supply"
+  },
+  {
+   "name": "B&J Welding Supply",
+   "owner": "Cordatus Capital (American Gas Group platform)",
+   "reason": "Acquired by Cordatus Capital (American Gas Group platform) (2024)",
+   "source": "https://gawdamedia.com/may-15-2024-gawda-distributor-news/"
+  },
+  {
+   "name": "Reisinger Oxygen",
+   "owner": "AWISCO",
+   "reason": "Acquired by AWISCO (2025)",
+   "source": "https://gawdamedia.com/author/steveg/page/4"
+  },
+  {
+   "name": "Industrial & Technical Gases",
+   "owner": "AWISCO",
+   "reason": "Acquired by AWISCO (2025)",
+   "source": "https://gawdamedia.com/author/steveg/page/4"
+  },
+  {
+   "name": "Advanced Welding Supply",
+   "owner": "Holston Gases",
+   "reason": "Acquired by Holston Gases (2025)",
+   "source": "https://gawdamedia.com/author/steveg/page/4"
+  },
+  {
+   "name": "Hust Brothers (packaged gas & welding division)",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide) (2025)",
+   "source": "https://www.mdm.com/?p=370147"
+  },
+  {
+   "name": "Cobourg Welding Supply",
+   "owner": "Core Industrial Gases",
+   "reason": "Acquired by Core Industrial Gases",
+   "source": "https://www.mdm.com/news/top-distributor-sectors/gases-welding-equipment/core-industrial-gases-acquires-fellow-canadian-distributor-cobourg-welding-supply/"
+  },
+  {
+   "name": "Welds Supply (Kansas City)",
+   "owner": "CK Supply",
+   "reason": "Acquired by CK Supply",
+   "source": "https://www.mdm.com/news/mergers-acquisitions/distributor-ck-supply-acquires-welds-supply-in-kansas-city/"
+  },
+  {
+   "name": "ABCO Welding & Industrial Supply",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide)",
+   "source": "https://bigelowllc.com/transaction-experiences/abco-welding-industrial-supply-inc-acquired-by-airgas-inc"
+  },
+  {
+   "name": "Texas Welders Supply Company",
+   "owner": "Praxair (Linde)",
+   "reason": "Acquired by Praxair (Linde) (2011)",
+   "source": "https://hydrocarbonprocessing.com/news/2011/12/praxair-to-acquire-houston-welding-gas-supplier/"
+  },
+  {
+   "name": "Oxygene Pro-Tech",
+   "owner": "Air Liquide Canada",
+   "reason": "Acquired by Air Liquide Canada",
+   "source": "https://www.mdm.com/?p=14714"
+  },
+  {
+   "name": "Metalox (2000)",
+   "owner": "Air Liquide Canada",
+   "reason": "Acquired by Air Liquide Canada",
+   "source": "https://www.mdm.com/?p=14714"
+  },
+  {
+   "name": "Lake Welding Supply (Muskegon, MI)",
+   "owner": "Praxair (Linde)",
+   "reason": "Acquired by Praxair (Linde)",
+   "source": "https://www.mdm.com/news/operations/finance/praxair-acquires-lake-welding-supply/"
+  },
+  {
+   "name": "Buckeye Welder Sales (Newton Falls, OH)",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide) (2024)",
+   "source": "https://gawdamedia.com/may-15-2024-gawda-distributor-news/"
+  },
+  {
+   "name": "NLR Welding Supply (North Little Rock, AR)",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide) (2024)",
+   "source": "https://gawdamedia.com/may-15-2024-gawda-distributor-news/"
+  },
+  {
+   "name": "Fowler's Welding Supply (East Windsor, CT)",
+   "owner": "Haun Welding Supply",
+   "reason": "Acquired by Haun Welding Supply (2024)",
+   "source": "https://gawdamedia.com/may-15-2024-gawda-distributor-news/"
+  },
+  {
+   "name": "Suncoast Welding Supplies",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://www.gasworld.com/story/awg-acquires-suncoast-welding-supplies-in-florida/2163292.article"
+  },
+  {
+   "name": "Norton Welding Supply (Augusta, GA)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://www.inddist.com/mergers-acquisitions/news/13772481/american-welding-gas-acquires-augustas-norton-welding-supply"
+  },
+  {
+   "name": "Sexton Welding Supply",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://www.gasworld.com/story/american-welding-gas-acquires-sexton-welding-supply"
+  },
+  {
+   "name": "Bestway Welding Supply (Houston)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://www.mdm.com/news/operations/american-welding-gas-acquires-bestway-welding-supply/"
+  },
+  {
+   "name": "Delo Welding & Industrial Supply (Syracuse)",
+   "owner": "Jackson Welding & Gas",
+   "reason": "Acquired by Jackson Welding & Gas (2015)",
+   "source": "https://www.inddist.com/mergers-acquisitions/news/13767293/nys-jackson-welding-gas-acquires-delo-welding"
+  },
+  {
+   "name": "nexAir",
+   "owner": "Linde (LG&E bought remaining 77.2%)",
+   "reason": "Acquired by Linde (LG&E bought remaining 77.2%) (2023)",
+   "source": "https://www.chemistryviews.org/?p=62941"
+  },
+  {
+   "name": "Mittler Supply",
+   "owner": "Praxair (Linde)",
+   "reason": "Acquired by Praxair (Linde) (2007)",
+   "source": "https://www.gasworld.com/story/praxair-announce-agreement-to-acquire-mittler-supply/2074709.article"
+  },
+  {
+   "name": "Atlas Welding Supply",
+   "owner": "Meritus Gas Partners (partner/equity)",
+   "reason": "Acquired by Meritus Gas Partners (partner/equity)",
+   "source": "https://businessalabama.com/atlas-welding-supply-becomes-partner-in-meritus-gas-partners/"
+  },
+  {
+   "name": "Strate Welding Supply",
+   "owner": "Maine Oxy",
+   "reason": "Acquired by Maine Oxy (2025)",
+   "source": "https://www.mdm.com/news/top-distributor-sectors/gases-welding-equipment/maine-oxy-acquires-strate-welding-supply-in-buffalo/"
+  },
+  {
+   "name": "Noble Gas Solutions",
+   "owner": "Air Water America",
+   "reason": "Acquired by Air Water America (2022)",
+   "source": "https://www.privsource.com/acquisitions/deal/q5S4Z7"
+  },
+  {
+   "name": "Depke Gases and Welding Supplies",
+   "owner": "Weldstar Company (merger)",
+   "reason": "Acquired by Weldstar Company (merger) (2018)",
+   "source": "https://www.inddist.com/mergers-acquisitions/news/13775645/merger-depke-gases-and-welding-supplies-joins-weldstar-company"
+  },
+  {
+   "name": "Coastal Welding Supply (Beaumont, TX)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas (2023)",
+   "source": "https://www.kirkland.com/news/press-release/2023/05/kirkland-advises-coastal-welding-supply-on-being-acquired-by-american-welding-gas"
+  },
+  {
+   "name": "Arco Welding Supply (MA)",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide)",
+   "source": "https://www.gasworld.com/story/airgas-acquires-arco-welding-supply-in-massachusetts/2248791.article/"
+  },
+  {
+   "name": "Angelus Welding (Los Angeles)",
+   "owner": "Tech Air",
+   "reason": "Acquired by Tech Air (2017)",
+   "source": "https://www.inddist.com/mergers-acquisitions/news/13774257/tech-air-acquires-los-angeles-welding-distributor"
+  },
+  {
+   "name": "Alliance Welding Supplies (San Jose)",
+   "owner": "Tech Air",
+   "reason": "Acquired by Tech Air (2017)",
+   "source": "https://www.gasworld.com/story/tech-air-acquires-alliance-welding-supplies/2084542.article"
+  },
+  {
+   "name": "Gases & Arc Supply (Denver)",
+   "owner": "Tech Air",
+   "reason": "Acquired by Tech Air",
+   "source": "https://www.mdm.com/news/operations/finance/tech-air-acquires-gases-arc-supply/"
+  },
+  {
+   "name": "L&M Welding Supply (Mobile, AL)",
+   "owner": "Tech Air",
+   "reason": "Acquired by Tech Air",
+   "source": "https://www.inddist.com/mergers-acquisitions/news/13767224/tech-air-acquires-lm-welding-supply"
+  },
+  {
+   "name": "United Welding Supply (Freeport, TX)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://www.gasworld.com/story/awg-expands-texas-footprint-with-united-welding-supply-acquisition/2256325.article/"
+  },
+  {
+   "name": "A+ Distributing (Strawberry Point, IA)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://www.gasworld.com/story/american-welding-gas-acquires-a-distributing/2091692.article.article/"
+  },
+  {
+   "name": "Hall's Welding Supplies",
+   "owner": "Arc3 Gases",
+   "reason": "Acquired by Arc3 Gases",
+   "source": "https://gawdamedia.com/?p=17680"
+  },
+  {
+   "name": "Moore Oxygen Supply (GA)",
+   "owner": "nexAir (now Linde)",
+   "reason": "Acquired by nexAir (now Linde)",
+   "source": "https://www.gasworld.com/story/nexair-acquires-georgia-based-moore-oxygen-supply/2083841.article/?red=1"
+  },
+  {
+   "name": "Continental Carbonic",
+   "owner": "Matheson (Nippon Sanso)",
+   "reason": "Acquired by Matheson (Nippon Sanso) (2014)",
+   "source": "https://www.continentalcarbonic.com/about-us/"
+  },
+  {
+   "name": "Pacific Welding Supplies",
+   "owner": "Central Welding Supply",
+   "reason": "Acquired by Central Welding Supply",
+   "source": "https://www.rermag.com/news-analysis/headline-news/article/20932816/central-welding-supply-acquires-pacific-welding-supplies"
+  },
+  {
+   "name": "OXARC",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2023)",
+   "source": "https://www.mdm.com/news/operations/mergers-acquisitions/meritus-gas-partners-acquires-oxarc-in-spokane/"
+  },
+  {
+   "name": "Weiler Welding Company",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide) (2018)",
+   "source": "https://www.gasworld.com/airgas-makes-500th-acquisition-/2014661.article"
+  },
+  {
+   "name": "Volunteer Welding Supply",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners",
+   "source": "https://www.gasworld.com/story/volunteer-welding-joins-meritus/2092953.article"
+  },
+  {
+   "name": "Bemidji Welders Supply (incl. Rapids Welding, Red River Welders)",
+   "owner": "Central McGowan",
+   "reason": "Acquired by Central McGowan (2024)",
+   "source": "https://gawdamedia.com/june-1-2024-gawda-distributor-news/"
+  },
+  {
+   "name": "Encompass Gas Group (Rockford, IL)",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide) (2013)",
+   "source": "https://www.inddist.com/home/news/13768094/airgas-completes-acquisition-of-the-encompass-gas-group"
+  },
+  {
+   "name": "OzArc Gas Equipment & Supply",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners",
+   "source": "https://distributionstrategy.com/2024/06/meritus-gas-partners-announces-3-acquisitions/"
+  },
+  {
+   "name": "High Precision Gas",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners",
+   "source": "https://distributionstrategy.com/2024/06/meritus-gas-partners-announces-3-acquisitions/"
+  },
+  {
+   "name": "Applied Gas (Danbury, TX)",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2023)",
+   "source": "https://distributionstrategy.com/meritus-gas-partners-acquires-applied-gas"
+  },
+  {
+   "name": "A-OX Welding Supply (Sioux Falls, SD)",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2024)",
+   "source": "https://www.mdm.com/news/operations/mergers-acquisitions/meritus-grows-gas-distribution-marks-three-acquisitions/"
+  },
+  {
+   "name": "A&B Welding Supply (Rapid City, SD)",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2024)",
+   "source": "https://www.mdm.com/news/operations/mergers-acquisitions/meritus-grows-gas-distribution-marks-three-acquisitions/"
+  },
+  {
+   "name": "Airco Gases Southwest (Dallas)",
+   "owner": "Meritus Gas Partners (partnership)",
+   "reason": "Acquired by Meritus Gas Partners (partnership) (2024)",
+   "source": "https://www.mdm.com/news/operations/mergers-acquisitions/meritus-grows-gas-distribution-marks-three-acquisitions/"
+  },
+  {
+   "name": "MagneGas Welding Supply - South",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2023)",
+   "source": "https://www.mdm.com/news/operations/mergers-acquisitions/meritus-gas-partners-acquires-welding-distributor-in-kansas-city/"
+  },
+  {
+   "name": "East Bay Welding Supply (San Francisco)",
+   "owner": "Meritus Gas Partners",
+   "reason": "Acquired by Meritus Gas Partners (2024)",
+   "source": "https://distributionstrategy.com/2024/10/meritus-gas-partners-acquires-east-bay-welding-supply/"
+  },
+  {
+   "name": "Gem State Welders Supply (Twin Falls, ID)",
+   "owner": "Meritus Gas Partners (OXARC)",
+   "reason": "Acquired by Meritus Gas Partners (OXARC) (2024)",
+   "source": "https://distributionstrategy.com/2024/06/meritus-gas-partners-announces-3-acquisitions/"
+  },
+  {
+   "name": "EcoGreen Industries",
+   "owner": "Meritus Gas Partners (High Precision Gas)",
+   "reason": "Acquired by Meritus Gas Partners (High Precision Gas) (2024)",
+   "source": "https://distributionstrategy.com/2024/06/meritus-gas-partners-announces-3-acquisitions/"
+  },
+  {
+   "name": "Athens Gas and Welding Supply (GA)",
+   "owner": "Holston Gases",
+   "reason": "Acquired by Holston Gases (2026)",
+   "source": "https://gawdamedia.com/holston-gases-acquires-athens-gas-and-welding-supply-inc/"
+  },
+  {
+   "name": "Toll Gas and Welding Supply",
+   "owner": "CM2 Supply (Central McGowan/Minneapolis Oxygen)",
+   "reason": "Acquired by CM2 Supply (Central McGowan/Minneapolis Oxygen) (2026)",
+   "source": "https://gawdamedia.com/cm2-supply-acquires-toll-gas-and-welding-expanding-industrial-gas-and-welding-capabilities/"
+  },
+  {
+   "name": "Morgan Steel (Kenai, AK)",
+   "owner": "Central Welding Supply",
+   "reason": "Acquired by Central Welding Supply (2024)",
+   "source": "https://gawdamedia.com/central-welding-supply-acquires-morgan-steel/"
+  },
+  {
+   "name": "A.L.T. Welding Supplies (WA)",
+   "owner": "Central Welding Supply",
+   "reason": "Acquired by Central Welding Supply (2026)",
+   "source": "https://gawdamedia.com/central-welding-supply-acquires-a-l-t-welding-supplies/"
+  },
+  {
+   "name": "T&R Repair (Torch & Regulator Repair)",
+   "owner": "Central Welding Supply",
+   "reason": "Acquired by Central Welding Supply (2026)",
+   "source": "https://gawdamedia.com/central-welding-supply-acquires-tr-repair/"
+  },
+  {
+   "name": "Burtek (Iowa dry ice)",
+   "owner": "Reliant Dry Ice",
+   "reason": "Acquired by Reliant Dry Ice (2026)",
+   "source": "https://gawdamedia.com/reliant-dry-ice-acquires-burtek/"
+  },
+  {
+   "name": "Welders Supply & Equipment (Nashville/Gallatin)",
+   "owner": "Holston Gases",
+   "reason": "Acquired by Holston Gases",
+   "source": "https://www.inddist.com/mergers-acquisitions/news/13772608/holston-gases-acquires-welders-supply-equipment"
+  },
+  {
+   "name": "Nordan Smith / Industrial Welding Supplies of Hattiesburg",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide)",
+   "source": "https://www.gasworld.com/story/airgas-acquires-nordan-smith/2076354.article.article/"
+  },
+  {
+   "name": "Scott-Gross Company (Lexington, KY)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://somersetpulaskichamber.com/?p=79868"
+  },
+  {
+   "name": "Axmen Propane (MT)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas (2021)",
+   "source": "https://www.lpgasmagazine.com/?p=51596"
+  },
+  {
+   "name": "Welders Industrial Supply (Pasadena, TX)",
+   "owner": "Praxair (Linde)",
+   "reason": "Acquired by Praxair (Linde)",
+   "source": "https://www.gasworld.com/story/praxair-buys-welders-industrial-supply/2076098.article"
+  },
+  {
+   "name": "AXIUM Gases Northwest (OR)",
+   "owner": "Central Welding Supply",
+   "reason": "Acquired by Central Welding Supply",
+   "source": "https://www.gasworld.com/story/central-welding-supply-acquires-axium-gases/2086352.article"
+  },
+  {
+   "name": "Delo Welding",
+   "owner": "Jackson Welding & Gas",
+   "reason": "Acquired by Jackson Welding & Gas (2015)",
+   "source": "https://rbj.net/2015/09/29/jackson-welding-acquires-syracuse-company/"
+  },
+  {
+   "name": "Gano Welding Supplies (Charleston, IL)",
+   "owner": "ILMO Products",
+   "reason": "Acquired by ILMO Products",
+   "source": "https://www.gasworld.com/story/ilmo-acquires-gano-welding-supplies/2093061.article.article/"
+  },
+  {
+   "name": "Compressed Gas Solutions (Orlando)",
+   "owner": "American Welding & Gas",
+   "reason": "Acquired by American Welding & Gas",
+   "source": "https://www.gasworld.com/story/american-welding-gas-joins-forces-with-compressed-gas-solutions/2086226.article/"
+  },
+  {
+   "name": "Cen-Alta Welding Supplies (Calgary)",
+   "owner": "Linde Canada",
+   "reason": "Acquired by Linde Canada (2014)",
+   "source": "https://www.canadianrentalservice.com/linde-canada-acquires-cen-alta-welding-supplies-3224/"
+  },
+  {
+   "name": "Canadian Cylinder & Gases (Prince George, BC)",
+   "owner": "Praxair Canada (Linde)",
+   "reason": "Acquired by Praxair Canada (Linde)",
+   "source": "https://www.gasworld.com/story/praxair-acquires-canadian-cylinder-gases-inc-in-british-columbia/2076669.article.article/"
+  },
+  {
+   "name": "P&B Industrial Sales (Sudbury, ON)",
+   "owner": "Linde Canada",
+   "reason": "Acquired by Linde Canada",
+   "source": "https://mdm.com/?p=22782"
+  },
+  {
+   "name": "Contact Welding Supplies (London, ON)",
+   "owner": "Linde Canada",
+   "reason": "Acquired by Linde Canada (2012)",
+   "source": "https://www.thefabricator.com/thewelder/news/consumables/linde-canada-acquires-contact-welding-supplies"
+  },
+  {
+   "name": "Oxygene Sorel-Tracy and SIRM (QC)",
+   "owner": "Linde Canada",
+   "reason": "Acquired by Linde Canada",
+   "source": "https://www.gasworld.com/north-america/linde-buys-gas-and-welding-supplier/2003587.article"
+  },
+  {
+   "name": "Dressel Welding Supply (York, PA)",
+   "owner": "Airgas (Air Liquide) - website now redirects to airgas.com",
+   "reason": "Acquired by Airgas (Air Liquide) - website now redirects to airgas.com",
+   "source": "https://www.dressel1.com"
+  },
+  {
+   "name": "Wright Welding Supply (Des Moines, IA)",
+   "owner": "Airgas (Air Liquide)",
+   "reason": "Acquired by Airgas (Air Liquide) (2007)",
+   "source": "https://www.gasworld.com/story/airgas-acquisitions-strengthen-operations/2073730.article"
+  },
+  {
+   "name": "Columbia Welding and Machine (MO)",
+   "owner": "CK Supply",
+   "reason": "Acquired by CK Supply (2025)",
+   "source": "https://distributionstrategy.com/2025/04/ck-supply-acquires-columbia-welding-and-machine/"
+  },
+  {
+   "name": "CESCO (Fayetteville, AR)",
+   "owner": "Helget Gas Products",
+   "reason": "Acquired by Helget Gas Products (2025)",
+   "source": "https://www.mdm.com/news/top-distributor-sectors/gases-welding-equipment/helget-gas-acquires-beverage-equipment-distributor-cesco-in-ar/"
+  },
+  {
+   "name": "USA Gas Inc. (North Georgia)",
+   "owner": "Holston Gases",
+   "reason": "Acquired by Holston Gases",
+   "source": "https://www.inddist.com/mergers-acquisitions/news/13772608/holston-gases-acquires-welders-supply-equipment"
+  },
+  {
+   "name": "Afrox (African Oxygen)",
+   "owner": "Linde",
+   "reason": "Linde subsidiary since BOC takeover 2006; Linde bought out minorities and delisted 2020",
+   "source": "https://www.businessday.co.za/bd/companies/industrials/2020-10-18-afrox-delisting-will-be-bad-news-for-jse",
+   "country": "South Africa"
+  },
+  {
+   "name": "Afrox Zambia",
+   "owner": "Linde (via Afrox)",
+   "reason": "Local Linde unit; IDC selling its 30% minority",
+   "source": "https://www.naturalgasworld.com/zambia-afrox-stake-sale-lindes-idc-849",
+   "country": "Zambia"
+  },
+  {
+   "name": "BOC Kenya Plc",
+   "owner": "Linde",
+   "reason": "Linde holds 65.38%; Carbacid bid lapsed 2025",
+   "source": "https://khusoko.com/2025/04/01/boc-kenya-takeover-bid-lapses-after-prolonged-regulatory-delays/",
+   "country": "Kenya"
+  },
+  {
+   "name": "Air Products South Africa",
+   "owner": "Air Products (50%) / Metkor (Remgro)",
+   "reason": "50/50 JV with Air Products",
+   "source": "https://www.gasworld.com/story/strong-growth-expected-in-south-africa/2074698.article",
+   "country": "South Africa"
+  },
+  {
+   "name": "Messer Gases Dikheila",
+   "owner": "Messer",
+   "reason": "Messer JV with ANSDK",
+   "source": "https://disclosures.ifc.org/project-detail/ESRS/8006/messer-gases-dikheila-company-s-a-e",
+   "country": "Egypt"
+  },
+  {
+   "name": "Cen-Alta Welding Supplies",
+   "owner": "Linde",
+   "reason": "Acquired by Linde Canada",
+   "source": "https://www.canadianrentalservice.com/linde-canada-acquires-cen-alta-welding-supplies-3224/",
+   "country": "Canada"
+  },
+  {
+   "name": "Canadian Cylinder & Gases",
+   "owner": "Linde (ex-Praxair)",
+   "reason": "Acquired by Praxair Canada",
+   "source": "https://www.mdm.com/premium/top-distributor-sectors/praxair-canada-acquires-canadian-cylinder-gases/",
+   "country": "Canada"
+  },
+  {
+   "name": "Oxygene Pro-Tech / Metalox",
+   "owner": "Air Liquide",
+   "reason": "Quebec distributors acquired by Air Liquide Canada",
+   "source": "https://www.mdm.com/?p=14714",
+   "country": "Canada"
+  },
+  {
+   "name": "Oxygene Sorel-Tracy / SIRM",
+   "owner": "Linde",
+   "reason": "Linde Canada bought stakes",
+   "source": "https://www.mdm.com/?p=14714",
+   "country": "Canada"
+  },
+  {
+   "name": "Contact Welding Supplies; P&B Industrial Sales",
+   "owner": "Linde",
+   "reason": "Acquired by Linde Canada",
+   "source": "https://www.gasworld.com/linde-canada-expands-network/2976.article",
+   "country": "Canada"
+  },
+  {
+   "name": "Indura",
+   "owner": "Air Products",
+   "reason": "Air Products bought 67% in 2012, later 97.8%",
+   "source": "https://www.hydrocarbonprocessing.com/news/2012/06/air-products-buys-majority-stake-in-chile-industrial-gases-firm-indura/",
+   "country": "Chile"
+  },
+  {
+   "name": "Cryogas (Gases Industriales de Colombia)",
+   "owner": "Air Products (via Indura)",
+   "reason": "Acquired by Indura 2008",
+   "source": "https://www.invima.gov.co/establecimiento/1275-gases-industriales-de-colombia-sa-cryogas-yo-air-products-estaci%C3%B3n-de-llenado-bogot%C3%A1",
+   "country": "Colombia"
+  },
+  {
+   "name": "IBG Industria Brasileira de Gases",
+   "owner": "SOL (51%)",
+   "reason": "SOL acquired 51% in 2026; founder keeps 49%",
+   "source": "https://www.gasworld.com/story/sol-expands-into-brazilian-industrial-gases-through-ibg-partnership/2256065.article/",
+   "country": "Brazil"
+  },
+  {
+   "name": "Messer Colombia",
+   "owner": "Messer",
+   "reason": "Messer subsidiary (ex-Linde assets)",
+   "source": "https://www.larepublica.co/empresas/oxicol-busca-ganar-terreno-en-la-costa-con-planta-de-cryogas-4481645",
+   "country": "Colombia"
+  },
+  {
+   "name": "Cryogas de Centroamerica",
+   "owner": "Air Liquide",
+   "reason": "Acquired by Air Liquide 2010",
+   "source": "https://www.laprensa.hn/economia/dineroynegocios/romper-paradigmas-industria-regional-gases-panameno-michael-morales-BGLP1294151",
+   "country": "Central America"
+  },
+  {
+   "name": "La Oxigena Paraguaya",
+   "owner": "Air Liquide",
+   "reason": "Acquired by Air Liquide 1939",
+   "source": "https://www.airliquide.com/group/paraguay",
+   "country": "Paraguay"
+  },
+  {
+   "name": "Linde Peru (incl. Tecnogas, Praxair Peru)",
+   "owner": "Linde",
+   "reason": "Linde subsidiaries",
+   "source": "https://gestion.pe/economia/empresas/oxigeno-medicinal-linde-las-acciones-que-tomo-linde-para-incrementar-produccion-de-oxigeno-medicinal-en-el-peru-noticia/",
+   "country": "Peru"
+  },
+  {
+   "name": "Medigas (Mexico)",
+   "owner": "Linde (Praxair Mexico) - inferred",
+   "reason": "Directory lists Praxair Mexico as contact; treat as Linde brand",
+   "source": "https://dirind.com/pro/medigas.html",
+   "country": "Mexico"
+  },
+  {
+   "name": "Consolidated Industrial Gases Inc (CIGI)",
+   "owner": "Linde",
+   "reason": "Linde majority owner",
+   "source": "https://www.gasworld.com/story/linde-commits-to-philippine-operations",
+   "country": "Philippines"
+  },
+  {
+   "name": "Southern Industrial Gases Philippines (SIG)",
+   "owner": "Linde",
+   "reason": "Linde majority owner",
+   "source": "https://www.gasworld.com/story/linde-commits-to-philippine-operations",
+   "country": "Philippines"
+  },
+  {
+   "name": "Nippon Sanso Ingasco",
+   "owner": "Nippon Sanso",
+   "reason": "Taiyo Nippon Sanso subsidiary",
+   "source": "https://www.icp.org.ph/?p=64700",
+   "country": "Philippines"
+  },
+  {
+   "name": "Southern Industrial Gas Sdn Bhd",
+   "owner": "Air Liquide",
+   "reason": "Acquired from SIG Gas Berhad 2019",
+   "source": "https://airliquide.com/group/press-releases-news/2019-10-31/air-liquide-strengthens-its-position-malaysia-acquisition-southern-industrial-gases",
+   "country": "Malaysia"
+  },
+  {
+   "name": "Polygas",
+   "owner": "Air Liquide",
+   "reason": "Acquired 2016",
+   "source": "https://en.wikipedia.org/wiki/Mox-Linde_Gases",
+   "country": "Malaysia"
+  },
+  {
+   "name": "MOX-Linde Gases (Malaysian Oxygen)",
+   "owner": "Linde",
+   "reason": "Linde share buyout 2007",
+   "source": "https://en.wikipedia.org/wiki/Mox-Linde_Gases",
+   "country": "Malaysia"
+  },
+  {
+   "name": "Eastern Oxygen Industries",
+   "owner": "Linde",
+   "reason": "Fully bought by MOX-Linde 2011",
+   "source": "https://www.cbinsights.com/company/eastern-oxygen-industries",
+   "country": "Malaysia"
+  },
+  {
+   "name": "WKS Group; Wipco Industrial; Kobewel Kogyo Gases",
+   "owner": "Messer",
+   "reason": "Acquired/agreed by Messer 2026",
+   "source": "https://www.gasworld.com/story/messer-targets-southeast-asia-growth-with-trio-of-gas-acquisitions/2253473.article/",
+   "country": "Singapore/Malaysia"
+  },
+  {
+   "name": "Leeden National Oxygen",
+   "owner": "Nippon Sanso",
+   "reason": "Major shareholder Taiyo Nippon Sanso Holdings Singapore",
+   "source": "https://ja.wikipedia.com/wiki/Leeden_National_Oxygen",
+   "country": "Singapore"
+  },
+  {
+   "name": "Vietnam Japan Gas",
+   "owner": "Nippon Sanso",
+   "reason": "TNSC JV with Tomoe Shokai",
+   "source": "https://www.gasworld.com/vietnam-japan-gas-gets-order-for-11000m3/h-onsite-facility/4522.article",
+   "country": "Vietnam"
+  },
+  {
+   "name": "Messer Hai Phong / Messer Vietnam",
+   "owner": "Messer",
+   "reason": "Messer subsidiaries",
+   "source": "https://www.gasworld.com/story/messer-brings-largest-air-separation-unit-in-vietnam-on-stream/2081881.article",
+   "country": "Vietnam"
+  },
+  {
+   "name": "Air Products Industry Co (API)",
+   "owner": "Nippon Sanso",
+   "reason": "Acquired by TNSC",
+   "source": "https://www.gasworld.com/tnsc-acquires-bangkok-based-api/2007563.article",
+   "country": "Thailand"
+  },
+  {
+   "name": "Linde Thailand (fmr Thai Industrial Gases)",
+   "owner": "Linde",
+   "reason": "Linde member",
+   "source": "https://www.gasworld.com/story/country-focus-thailand/2083361.article",
+   "country": "Thailand"
+  },
+  {
+   "name": "Bangkok Industrial Gas (BIG)",
+   "owner": "Air Products (JV partner)",
+   "reason": "Air Products JV with Bangkok Bank-linked holders; not independent - verify stake",
+   "source": "https://www.bangkokpost.com/business/news/1537106/big-budgets-b4bn-for-capacity-expansion",
+   "country": "Thailand"
+  },
+  {
+   "name": "INOX Air Products",
+   "owner": "Air Products (50%)",
+   "reason": "50:50 JV INOX Group / Air Products; IPO filed 2026",
+   "source": "https://www.indmoney.com/blog/ipo/inox-air-products-files-drhp-for-ipo",
+   "country": "India"
+  },
+  {
+   "name": "SOL India (fmr SICGILSOL)",
+   "owner": "SOL",
+   "reason": "SOL raised stake to 85%",
+   "source": "https://www.solgroup.com/en/investors/press-releases-and-financial-notices/press-releases/sol-s-p-a-reinforces-its-presence-in-india-sicgilsol-50-50-sol-sicgil-joint-venture-acquires-100-of-seva-gases/at_download/file",
+   "country": "India"
+  },
+  {
+   "name": "Seva Gases",
+   "owner": "SOL",
+   "reason": "Acquired 100% by SICGILSOL (now SOL India) 2014",
+   "source": "https://www.solgroup.com/en/investors/press-releases-and-financial-notices/press-releases/sol-s-p-a-reinforces-its-presence-in-india-sicgilsol-50-50-sol-sicgil-joint-venture-acquires-100-of-seva-gases/at_download/file",
+   "country": "India"
+  },
+  {
+   "name": "Linde Bangladesh",
+   "owner": "Linde",
+   "reason": "Linde subsidiary (~80% share)",
+   "source": "https://www.tbsnews.net/node/177748",
+   "country": "Bangladesh"
+  },
+  {
+   "name": "Ceylon Oxygen",
+   "owner": "Linde",
+   "reason": "Actis sold 95% to Linde 2010",
+   "source": "https://www.act.is/2010/10/16/actis-sells-control-stake-in-ceylon-oxygen-to-the-linde-group",
+   "country": "Sri Lanka"
+  },
+  {
+   "name": "Messer Aligaz",
+   "owner": "Air Liquide",
+   "reason": "Acquired by Air Liquide 2015",
+   "source": "https://www.airliquide.com/group/press-releases-news/2015-09-15/air-liquide-expands-its-business-turkey-acquisition",
+   "country": "Turkey"
+  },
+  {
+   "name": "Isdemir Linde Gaz Ortakligi",
+   "owner": "Linde (50%)",
+   "reason": "Linde/OYAK JV",
+   "source": "https://www.gasworld.com/linde-and-oyak-mining-metallurgy-group-complete-asu/2013766.article",
+   "country": "Turkey"
+  },
+  {
+   "name": "Elme Messer",
+   "owner": "Messer (JV with BLRT)",
+   "reason": "Messer JV",
+   "source": "https://www.gasworld.com/story/elme-messer-gaas-constructs-high-capacity-plant-in-estonia/2070679.article.article/",
+   "country": "Estonia/Latvia"
+  },
+  {
+   "name": "Messer Tehnogas",
+   "owner": "Messer",
+   "reason": "Messer subsidiary since 1997",
+   "source": "https://www.diplomacyandcommerce.rs/?p=13886",
+   "country": "Serbia"
+  },
+  {
+   "name": "OXY Technical Gases",
+   "owner": "SOL / SIAD (50/50)",
+   "reason": "SOL co-owned JV",
+   "source": "https://www.solgroup.com/en/the-siad-group-and-sol-group-are-taking-part-in-a-joint-production-initiative-in-croatia-through-the-newly-established-croatian-company-oxy-technical-gases-d-o-o-201coxy201d",
+   "country": "Croatia"
+  },
+  {
+   "name": "GTH Gaze Industriale",
+   "owner": "SOL (apparent)",
+   "reason": "SDS published by SOL Group - treat as SOL company, verify",
+   "source": "https://www.solgroup.com/it/safety-datasheet/msds_097a_gth_ro_9-0-pdf/at_download/file",
+   "country": "Romania"
+  },
+  {
+   "name": "Messer Iparigaz (fmr Air Liquide Hungary)",
+   "owner": "Messer",
+   "reason": "Messer bought Air Liquide Hungary",
+   "source": "https://www.chemanager-online.com/en/node/403995",
+   "country": "Hungary"
+  },
+  {
+   "name": "Air Liquide Czech & Slovakia",
+   "owner": "Messer",
+   "reason": "Messer acquired AL entities",
+   "source": "https://newsroom.messergroup.com/messer-enters-exclusive-negotiations-with-air-liquide-to-purchase-its-entities-in-czech-republic-and-slovakia/",
+   "country": "Czech Republic/Slovakia"
+  },
+  {
+   "name": "Linde Gaz Romania",
+   "owner": "Linde",
+   "reason": "Linde subsidiary",
+   "source": "https://www.zf.ro/companii/linde-gaz-romania-a-facut-profit-de-163-8-milioane-de-lei-in-2020-20204105",
+   "country": "Romania"
+  },
+  {
+   "name": "Linde Gas a.s.",
+   "owner": "Linde",
+   "reason": "Linde subsidiary",
+   "source": "https://emis.cn/php/company-profile/CZ/Linde_Gas_AS_en_1424927.html",
+   "country": "Czech Republic"
+  },
+  {
+   "name": "Linde Canada / Praxair / Praxair Distribution (national branch network)",
+   "owner": "Linde plc",
+   "reason": "Major",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Ontario",
+   "country": "Canada"
+  },
+  {
+   "name": "UCISCO - A Praxair Service Company",
+   "owner": "Linde plc",
+   "reason": "Brand owned by a major",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Alberta",
+   "country": "Canada"
+  },
+  {
+   "name": "Weldco / Cenalta (Red Deer listing)",
+   "owner": "Linde plc",
+   "reason": "weldcocenalta.com now sits under a Linde Canada listing",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Red+Deer+AB",
+   "country": "Canada"
+  },
+  {
+   "name": "Medigas",
+   "owner": "Linde plc",
+   "reason": "Major's medical / home-oxygen arm",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Kingston+ON",
+   "country": "Canada"
+  },
+  {
+   "name": "Dry Ice & Gases Co.",
+   "owner": "Linde Canada",
+   "reason": "Acquired by Linde; pickups moved to Linde Brampton from May 1, 2026",
+   "source": "http://www.dryiceandgases.com/",
+   "country": "Canada"
+  },
+  {
+   "name": "Weldco Welding Supplies Ltd (Windsor)",
+   "owner": "Likely Linde Canada (inferred)",
+   "reason": "Same address as Linde Windsor",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Windsor+ON",
+   "country": "Canada"
+  },
+  {
+   "name": "Contact Welding (London ON)",
+   "owner": "Likely Linde Canada (inferred)",
+   "reason": "Linde London listing links to contactwelding.com",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/London+ON",
+   "country": "Canada"
+  },
+  {
+   "name": "BOC Gases (Peterborough)",
+   "owner": "Linde plc",
+   "reason": "Legacy BOC brand",
+   "source": "https://www.yellowpages.ca/search/si/1/Gases/Ontario",
+   "country": "Canada"
+  },
+  {
+   "name": "Soudair (Anjou)",
+   "owner": "Likely Linde/Praxair",
+   "reason": "Directory website link goes to praxair.ca",
+   "source": "https://www.pagesjaunes.ca/search/si/3/Fournitures+et+mat%C3%A9riel+de+soudage/QC",
+   "country": "Canada"
+  },
+  {
+   "name": "Air Liquide Canada / Canadian Liquid Air / BlueShield",
+   "owner": "Air Liquide SA",
+   "reason": "Major",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Ontario",
+   "country": "Canada"
+  },
+  {
+   "name": "VitalAire Canada",
+   "owner": "Air Liquide SA",
+   "reason": "Major's home-oxygen arm",
+   "source": "https://www.yellowpages.ca/search/si/1/Oxygen+Therapy+Equipment/Toronto+ON",
+   "country": "Canada"
+  },
+  {
+   "name": "Arrow Welding & Industrial Supplies Inc (Edmonton)",
+   "owner": "Likely Air Liquide (unconfirmed)",
+   "reason": "Same address and phone as an Air Liquide listing; domain parked",
+   "source": "https://www.yellowpages.ca/search/si/1/Gases/Alberta",
+   "country": "Canada"
+  },
+  {
+   "name": "Messer Canada",
+   "owner": "Messer",
+   "reason": "Major",
+   "source": "https://www.pagesjaunes.ca/search/si/1/Fournitures+et+mat%C3%A9riel+de+soudage/Quebec+Province",
+   "country": "Canada"
+  },
+  {
+   "name": "Continental Carbonic Products (Etobicoke, Mississauga)",
+   "owner": "Nippon Sanso Holdings (Matheson group)",
+   "reason": "Major-affiliated dry ice/CO2; domain redirects to Nippon Sanso",
+   "source": "http://www.continentalcarbonic.com/",
+   "country": "Canada"
+  },
+  {
+   "name": "Northern Industrial Sales (Whitehorse/Yellowknife/AB)",
+   "owner": "Tenaquip Ltd (acquired 2016)",
+   "reason": "Owned by a national MRO distributor",
+   "source": "http://www.northernindustrialsales.ca/",
+   "country": "Canada"
+  },
+  {
+   "name": "Acklands-Grainger",
+   "owner": "W.W. Grainger",
+   "reason": "National MRO distributor",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Saskatchewan",
+   "country": "Canada"
+  },
+  {
+   "name": "AMECO (Leduc AB, Terrace BC, Saint John NB)",
+   "owner": "Not verified",
+   "reason": "IWDC branch listings of a large construction site-services/equipment company, not a standalone gas distributor; ownership not verified",
+   "source": "https://www.iwdc.coop/membership-information/member-directory-3?Country=Canada",
+   "country": "Canada"
+  },
+  {
+   "name": "Unigaz (Laval)",
+   "owner": "",
+   "reason": "PagesJaunes marks the listing permanently closed; websites returned no content",
+   "source": "https://www.pagesjaunes.ca/search/si/1/Unigaz/QC",
+   "country": "Canada"
+  },
+  {
+   "name": "Forney Welding Equipment & Supplies Ltd (Regina)",
+   "owner": "Unknown",
+   "reason": "Listed domain now hosts unrelated spam; may no longer operate",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Regina+SK",
+   "country": "Canada"
+  },
+  {
+   "name": "Stewart Sales & Rentals",
+   "owner": "",
+   "reason": "Closed May 30, 2022 (was an Air Liquide gas depot)",
+   "source": "http://stewartsalesandrentals.ca/",
+   "country": "Canada"
+  },
+  {
+   "name": "Source Atlantic (Wabush)",
+   "owner": "Not verified",
+   "reason": "Large multi-line distributor; listing links to praxair.com",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Newfoundland+and+Labrador",
+   "country": "Canada"
+  },
+  {
+   "name": "The Iceman Southwest",
+   "owner": "Family owned",
+   "reason": "Packaged ice and dry ice, not a cylinder-gas business",
+   "source": "https://www.yellowpages.ca/search/si/1/Dry+Ice/Ontario",
+   "country": "Canada"
+  },
+  {
+   "name": "Lincoln Electric / ESAB / Miller / Hobart / Eutectic / Techniweld",
+   "owner": "Manufacturers",
+   "reason": "Equipment makers, not gas distributors",
+   "source": "https://www.yellowpages.ca/search/si/1/Welding+Supplies/Toronto+ON",
+   "country": "Canada"
+  }
+ ]
+}
